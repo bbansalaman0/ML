@@ -1,0 +1,21 @@
+###Advance house prediction 
+
+
+## Life cycle of Data science projects
+
+1. Exploratory Data Analysis
+2. Feature engineering
+3. Feature selection 
+4. Model bulding
+5. Model Deployement
+
+
+## In Exploratory Data Analysis following steps are follow:
+1. Missing values
+2. All the numerical variables
+3. Distribution of the numerical variables
+4. Cardinality of catagorial variables
+6. Outliers
+7. Relationship between independent and dependent features(that is SalePrice)
+
+

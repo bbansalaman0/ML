@@ -11,11 +11,21 @@
 
 
 ## In Exploratory Data Analysis following steps are follow:
-1. Missing values
+1. CHECKING FOR Missing values
 2. All the numerical variables
 3. Distribution of the numerical variables
-4. Cardinality of catagorial variables
+3.1 CONTINUOUS AND DISCRETE VARIABLES
+4. Cardinality(ALL) of catagorial variables
 6. Outliers
 7. Relationship between independent and dependent features(that is SalePrice)
+8. TEMPORAL VARIABLES
 
+
+
+## In Exploratory Data Analysis following steps are follow:
+1. REPLACING MISSING VALUES FOR CATEGORICAL VALUES WITH MODE OR MISSING VARIABLE & FOR NUMERICAL VARIABLES WITH MEDIAN TO AVOID OUTLIERS
+2. HANDLE DATE TIME VARIABLES
+3. CONVERT NUMERICAL DATA INTO NORMAL DISTRIBUTION
+4. HANDLE RARE CATEGORICAL VARIABLES 
+5. FEATURE SCALING ( MINMAX_SCALING, STANDARD_SCALING, ONE_HOT_ENCODE, LABLE_ENCODE)
 
